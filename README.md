@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NguyenSangz/NguyenSangz/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/NguyenSangz/NguyenSangz/main/539249391_1689481268431852_4205226780024284280_n.gif" width="100%" />
 </p>
 
 ---
