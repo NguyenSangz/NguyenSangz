@@ -1,3 +1,10 @@
+## Banner
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyenSangz/NguyenSangz/main/banner.png" width="100%" />
+</p>
+
+---
+
 <h1 align="center">Hi I'm Nguyen Sang</h1>
 
 <p align="center">
@@ -32,13 +39,6 @@
 ## Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NguyenSangz&theme=tokyonight" />
-</p>
-
----
-
-## Banner
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NguyenSangz/NguyenSangz/main/banner.png" width="100%" />
 </p>
 
 ---
