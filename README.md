@@ -13,8 +13,10 @@
 ---
 
 ##  About me
-          I'm 14 year old 
-          :D
+<p align="center">
+            I'm 14 year old 
+            :D
+</p>
 ---
 
 ##  Skills
