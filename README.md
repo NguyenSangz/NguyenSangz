@@ -7,14 +7,14 @@
 <h1 align="center">Hi I'm Nguyen Sang</h1>
 
 <p align="center">
-  I'm a 1 coding frontend :D
+            I'm a 1 coding frontend :D
 </p>
 
 ---
 
 ##  About me
-  I'm 14 year old 
-  :D
+          I'm 14 year old 
+          :D
 ---
 
 ##  Skills
