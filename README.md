@@ -1,4 +1,3 @@
-## Banner
 <p align="center">
   <img src="https://raw.githubusercontent.com/NguyenSangz/NguyenSangz/main/banner.png" width="100%" />
 </p>
@@ -27,7 +26,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenSangz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenSangz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
