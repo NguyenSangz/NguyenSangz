@@ -1,26 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nguyen Sang</h1>
+<h1 align="center">Hi I'm Nguyen Sang</h1>
 
 <p align="center">
-  💻 Coding | 🎮 Gaming | 🚀 Learning every day
+  I'm a 1 coding frontend :D
 </p>
 
 ---
 
-## 🧑‍💻 About me
-- 🔭 Currently learning: C++ / Python  
-- ⚡ Interested in tech & gaming  
-- 🎯 Goal: Become a better developer  
-
+##  About me
+  I'm 14 year old 
+  :D
 ---
 
-## 🛠️ Skills
+##  Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,ts" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NguyenSangz&show_icons=true&theme=tokyonight" />
 </p>
@@ -31,16 +29,16 @@
 
 ---
 
-## 🔥 Streak
+## Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NguyenSangz&theme=tokyonight" />
 </p>
 
 ---
 
-## 🖼️ Banner
+## Banner
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
+  <img src="(https://raw.githubusercontent.com/NguyenSangz/NguyenSangz/main/banner.png)" width="100%" />
 </p>
 
 ---
@@ -51,5 +49,5 @@
 
 ---
 
-## ⚡ Fun fact
-I like gaming and building cool stuff 😎
+## Fun fact
+An bug, an experience :3
