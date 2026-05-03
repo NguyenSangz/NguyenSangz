@@ -19,7 +19,7 @@
 
 ##  Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,ts,cs" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,git,ts," />
 </p>
 
 ---
